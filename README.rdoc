@@ -1,0 +1,4 @@
+Include the plugin in your application_manifest.rb
+
+  recipe :little_stream_software_utilities
+  
